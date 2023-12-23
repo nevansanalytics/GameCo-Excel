@@ -1,7 +1,7 @@
 # GameCo Video Game Popularity Analysis
 
 ## Objective
-As an analyst for GameCo, this project aims to conduct a descriptive analysis of video game sales data to understand market trends, popular genres, competitors, and sales fluctuations over time. Insights derived from this analysis will inform the development of future games.
+As an analyst for GameCo, this project aims to conduct a descriptive analysis of video game sales data to understand market trends, popular genres, competitors, and sales fluctuations over time. Insights derived from this analysis will inform the sales of future games.
 
 ## Key Questions Explored
 - Are specific game genres more popular than others?
